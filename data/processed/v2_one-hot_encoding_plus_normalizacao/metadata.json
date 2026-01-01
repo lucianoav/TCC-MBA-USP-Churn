@@ -1,0 +1,28 @@
+{
+    "feature_set": "v2_one-hot_encoding_plus_normalizacao",
+    "feature_count": 13,
+    "features": [
+        "Exited",
+        "Geography_France",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "HasCrCard_1",
+        "IsActiveMember_1",
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "EstimatedSalary"
+    ],
+    "created_at": "2025-11-24T22:50:03.735482",
+    "train_shape": [
+        8000,
+        13
+    ],
+    "test_shape": [
+        2000,
+        13
+    ]
+}

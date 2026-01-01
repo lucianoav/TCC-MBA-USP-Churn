@@ -1,0 +1,47 @@
+{
+    "feature_set": "v4_normalizacao_plus_poly",
+    "feature_count": 32,
+    "features": [
+        "Geography",
+        "Gender",
+        "HasCrCard",
+        "IsActiveMember",
+        "Exited",
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "EstimatedSalary",
+        "CreditScore^2",
+        "CreditScore Age",
+        "CreditScore Tenure",
+        "CreditScore Balance",
+        "CreditScore NumOfProducts",
+        "CreditScore EstimatedSalary",
+        "Age^2",
+        "Age Tenure",
+        "Age Balance",
+        "Age NumOfProducts",
+        "Age EstimatedSalary",
+        "Tenure^2",
+        "Tenure Balance",
+        "Tenure NumOfProducts",
+        "Tenure EstimatedSalary",
+        "Balance^2",
+        "Balance NumOfProducts",
+        "Balance EstimatedSalary",
+        "NumOfProducts^2",
+        "NumOfProducts EstimatedSalary",
+        "EstimatedSalary^2"
+    ],
+    "created_at": "2025-11-24T23:09:22.318605",
+    "train_shape": [
+        8000,
+        32
+    ],
+    "test_shape": [
+        2000,
+        32
+    ]
+}

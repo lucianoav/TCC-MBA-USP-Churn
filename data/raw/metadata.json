@@ -1,0 +1,29 @@
+{
+    "feature_set": "Dados Brutos",
+    "feature_count": 14,
+    "features": [
+        "RowNumber",
+        "CustomerId",
+        "Surname",
+        "CreditScore",
+        "Geography",
+        "Gender",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary",
+        "Exited"
+    ],
+    "created_at": "2025-11-24T21:57:41.621976",
+    "train_shape": [
+        8000,
+        14
+    ],
+    "test_shape": [
+        2000,
+        14
+    ]
+}
