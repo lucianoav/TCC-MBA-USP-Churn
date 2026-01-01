@@ -1,0 +1,3 @@
+[submodule "ml-project-template"]
+	path = ml-project-template
+	url = https://github.com/lucianoav/ml-project-template.git
