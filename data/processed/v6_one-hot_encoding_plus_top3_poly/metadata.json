@@ -1,0 +1,31 @@
+{
+    "feature_set": "v6_one-hot_encoding_plus_top3_poly",
+    "feature_count": 16,
+    "features": [
+        "CreditScore",
+        "Tenure",
+        "EstimatedSalary",
+        "Exited",
+        "Geography_France",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "HasCrCard_1",
+        "IsActiveMember_1",
+        "Age^2",
+        "Age NumOfProducts",
+        "Age Balance",
+        "NumOfProducts^2",
+        "NumOfProducts Balance",
+        "Balance^2"
+    ],
+    "created_at": "2026-01-04T11:46:06.618569",
+    "train_shape": [
+        8000,
+        16
+    ],
+    "test_shape": [
+        2000,
+        16
+    ]
+}

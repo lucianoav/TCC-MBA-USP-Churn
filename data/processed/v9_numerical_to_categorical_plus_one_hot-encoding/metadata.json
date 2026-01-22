@@ -1,0 +1,50 @@
+{
+    "feature_set": "v9_numerical_to_categorical_plus_one_hot-encoding",
+    "feature_count": 35,
+    "features": [
+        "Exited",
+        "Geography_France",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "HasCrCard_1",
+        "IsActiveMember_1",
+        "CreditScore_cat_-500",
+        "CreditScore_cat_500-600",
+        "CreditScore_cat_600-700",
+        "CreditScore_cat_700-800",
+        "CreditScore_cat_800-",
+        "Age_cat_-25",
+        "Age_cat_25-35",
+        "Age_cat_35-45",
+        "Age_cat_45-60",
+        "Age_cat_60-",
+        "Tenure_cat_-2",
+        "Tenure_cat_2-4",
+        "Tenure_cat_4-6",
+        "Tenure_cat_6-8",
+        "Tenure_cat_8-",
+        "Balance_cat_-50.000",
+        "Balance_cat_100.000-150.000",
+        "Balance_cat_150.000-",
+        "Balance_cat_50.000-100.000",
+        "NumOfProducts_cat_-1",
+        "NumOfProducts_cat_1-2",
+        "NumOfProducts_cat_2-3",
+        "NumOfProducts_cat_3-",
+        "EstimatedSalary_cat_-25.000",
+        "EstimatedSalary_cat_100.000-150.000",
+        "EstimatedSalary_cat_150.000-",
+        "EstimatedSalary_cat_25.000-50.000",
+        "EstimatedSalary_cat_50.000-100.000"
+    ],
+    "created_at": "2026-01-04T21:10:43.999961",
+    "train_shape": [
+        8000,
+        35
+    ],
+    "test_shape": [
+        2000,
+        35
+    ]
+}

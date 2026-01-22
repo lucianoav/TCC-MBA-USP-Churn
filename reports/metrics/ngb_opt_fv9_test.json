@@ -1,0 +1,7 @@
+{
+    "roc_auc_score": 0.8528142934922596,
+    "accuracy_score": 0.8575,
+    "precision_score": 0.7479674796747967,
+    "recall_score": 0.4520884520884521,
+    "f1_score": 0.5635528330781011
+}

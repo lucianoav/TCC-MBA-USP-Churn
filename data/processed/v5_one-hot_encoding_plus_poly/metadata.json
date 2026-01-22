@@ -1,0 +1,49 @@
+{
+    "feature_set": "v5_one-hot_encoding_plus_poly",
+    "feature_count": 34,
+    "features": [
+        "Exited",
+        "Geography_France",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_Male",
+        "HasCrCard_1",
+        "IsActiveMember_1",
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "EstimatedSalary",
+        "CreditScore^2",
+        "CreditScore Age",
+        "CreditScore Tenure",
+        "CreditScore Balance",
+        "CreditScore NumOfProducts",
+        "CreditScore EstimatedSalary",
+        "Age^2",
+        "Age Tenure",
+        "Age Balance",
+        "Age NumOfProducts",
+        "Age EstimatedSalary",
+        "Tenure^2",
+        "Tenure Balance",
+        "Tenure NumOfProducts",
+        "Tenure EstimatedSalary",
+        "Balance^2",
+        "Balance NumOfProducts",
+        "Balance EstimatedSalary",
+        "NumOfProducts^2",
+        "NumOfProducts EstimatedSalary",
+        "EstimatedSalary^2"
+    ],
+    "created_at": "2026-01-01T17:57:40.878472",
+    "train_shape": [
+        8000,
+        34
+    ],
+    "test_shape": [
+        2000,
+        34
+    ]
+}

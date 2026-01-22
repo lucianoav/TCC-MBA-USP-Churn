@@ -1,0 +1,13 @@
+{
+    "model": "RandomForestClassifier",
+    "params": {
+        "n_estimators": 1062,
+        "max_depth": 8,
+        "min_samples_split": 42,
+        "min_samples_leaf": 1,
+        "max_features": 0.4354679082516301,
+        "class_weight": null
+    },
+    "score": 0.8649329198408953,
+    "timestamp": "2026-01-04T12:41:45.716180"
+}

@@ -1,0 +1,29 @@
+{
+    "feature_set": "v7_plus_top3_poly",
+    "feature_count": 14,
+    "features": [
+        "CreditScore",
+        "Geography",
+        "Gender",
+        "Tenure",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary",
+        "Exited",
+        "Age^2",
+        "Age NumOfProducts",
+        "Age Balance",
+        "NumOfProducts^2",
+        "NumOfProducts Balance",
+        "Balance^2"
+    ],
+    "created_at": "2026-01-04T13:18:09.735746",
+    "train_shape": [
+        8000,
+        14
+    ],
+    "test_shape": [
+        2000,
+        14
+    ]
+}

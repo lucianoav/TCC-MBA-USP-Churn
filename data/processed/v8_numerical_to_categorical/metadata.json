@@ -1,0 +1,26 @@
+{
+    "feature_set": "v8_numerical_to_categorical",
+    "feature_count": 11,
+    "features": [
+        "Geography",
+        "Gender",
+        "HasCrCard",
+        "IsActiveMember",
+        "Exited",
+        "CreditScore_cat",
+        "Age_cat",
+        "Tenure_cat",
+        "Balance_cat",
+        "NumOfProducts_cat",
+        "EstimatedSalary_cat"
+    ],
+    "created_at": "2026-01-04T19:00:41.769909",
+    "train_shape": [
+        8000,
+        11
+    ],
+    "test_shape": [
+        2000,
+        11
+    ]
+}
