@@ -1,0 +1,15 @@
+{
+    "model": "CatBoostClassifier",
+    "params": {
+        "learning_rate": 0.014581881369351258,
+        "depth": 5,
+        "iterations": 2092,
+        "l2_leaf_reg": 0.539330438747958,
+        "random_strength": 1.0495540276176767,
+        "bagging_temperature": 3.9347070373113664,
+        "auto_class_weights": "None",
+        "early_stopping_rounds": 82
+    },
+    "score": 0.8738791882963662,
+    "timestamp": "2026-02-22T21:11:51.024182"
+}

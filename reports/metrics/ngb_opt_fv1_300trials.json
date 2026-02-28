@@ -1,0 +1,14 @@
+{
+    "model": "NGBClassifier",
+    "params": {
+        "n_estimators": 1385,
+        "learning_rate": 0.0012656589601070013,
+        "minibatch_frac": 0.5372883081587808,
+        "base_max_depth": 6,
+        "base_min_samples_leaf": 5,
+        "base_min_samples_split": 10,
+        "base_max_features": 0.627008043808254
+    },
+    "score": 0.867970066743073,
+    "timestamp": "2026-02-23T23:17:45.591711"
+}
