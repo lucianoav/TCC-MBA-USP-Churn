@@ -1,0 +1,19 @@
+{
+    "model": "LGBMClassifier",
+    "params": {
+        "learning_rate": 0.2659207130794154,
+        "num_leaves": 33,
+        "max_depth": 4,
+        "n_estimators": 2039,
+        "min_child_samples": 10,
+        "min_child_weight": 0.00631336525229831,
+        "subsample": 0.6885208864731935,
+        "colsample_bytree": 0.6090778807477083,
+        "reg_lambda": 75.37246516253727,
+        "reg_alpha": 0.007568065994357847,
+        "scale_pos_weight": 1.1244545693471926,
+        "early_stopping_rounds": 57
+    },
+    "score": 0.8614647841203494,
+    "timestamp": "2026-03-01T14:21:44.241738"
+}

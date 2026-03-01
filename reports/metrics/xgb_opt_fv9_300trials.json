@@ -1,0 +1,18 @@
+{
+    "model": "XGBClassifier",
+    "params": {
+        "learning_rate": 0.03575336921014208,
+        "max_depth": 5,
+        "n_estimators": 1659,
+        "reg_lambda": 0.04216025483841688,
+        "reg_alpha": 0.8629406960683204,
+        "gamma": 1.7322620675157616,
+        "min_child_weight": 0.47076313635213407,
+        "subsample": 0.8139284552607952,
+        "colsample_bytree": 0.7101615612166823,
+        "scale_pos_weight": 0.6030611264469572,
+        "early_stopping_rounds": 79
+    },
+    "score": 0.8619193689745839,
+    "timestamp": "2026-03-01T14:02:32.346676"
+}
